@@ -1,6 +1,6 @@
 # DSCT-Logistic-Regression
 
-Data Description
+## Data Description
 
 This data set contains data on 21 variables and the classification whether an applicant is considered a Good or Bad credit risk for 1006 loan applicants.  
 
